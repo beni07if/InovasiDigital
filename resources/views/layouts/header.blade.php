@@ -15,15 +15,10 @@
           <li><a class="" href="#team">Team</a></li> -->
           <!-- <li><a href="blog.html">Blog</a></li> -->
           <li><a class="" href="{{route('solution')}}">Solutions</a></li>
-          <!-- <li class="dropdown"><a href="#"><span>Solutions</span> <i class="bi bi-chevron-down"></i></a> -->
+          <!-- <li class="dropdown"><a href="#"><span>Solutions</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Agriplot</a></li>
               <li><a href="#">Due Dilligence System</a></li>
-              <!-- <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                </ul>
-              </li> -->
               <li><a href="#">SGMP</a></li>
               <li><a href="#">Traceability</a></li>
               <li><a href="#">Corporate Profile</a></li>
@@ -31,7 +26,7 @@
               <li><a href="#">RS Forensic Intelligence</a></li>
               <li><a href="#">Extended Helpdesk</a></li>
             </ul>
-          </li>
+          </li> -->
           <li><a class="" href="{{route('event')}}">Events & Highlights</a></li>
           <li><a class="" href="{{route('career')}}">Career</a></li>
           <!-- <li><a class="" href="#contact">Contact</a></li> -->
