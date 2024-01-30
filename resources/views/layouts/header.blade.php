@@ -15,7 +15,7 @@
           <li><a class="" href="#team">Team</a></li> -->
           <!-- <li><a href="blog.html">Blog</a></li> -->
           <li><a class="" href="{{route('solution')}}">Solutions</a></li>
-          <li class="dropdown"><a href="#"><span>Solutions</span> <i class="bi bi-chevron-down"></i></a>
+          <!-- <li class="dropdown"><a href="#"><span>Solutions</span> <i class="bi bi-chevron-down"></i></a> -->
             <ul>
               <li><a href="#">Agriplot</a></li>
               <li><a href="#">Due Dilligence System</a></li>
