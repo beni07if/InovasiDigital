@@ -143,42 +143,42 @@
 
           <li class="nav-item col-6 col-md-4 col-lg-2">
             <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-1">
-              <i class="bi bi-binoculars color-cyan"></i>
+              <i class="ri-leaf-line color-cyan"></i>
               <h4>Palm Oil</h4>
             </a>
           </li><!-- End Tab 1 Nav -->
 
           <li class="nav-item col-6 col-md-4 col-lg-2">
             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
-              <i class="bi bi-box-seam color-indigo"></i>
+              <i class="ri-leaf-line color-indigo"></i>
               <h4>Rubber</h4>
             </a>
           </li><!-- End Tab 2 Nav -->
 
           <li class="nav-item col-6 col-md-4 col-lg-2">
             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
-              <i class="bi bi-brightness-high color-teal"></i>
+              <i class="ri-leaf-line color-teal"></i>
               <h4>Soy</h4>
             </a>
           </li><!-- End Tab 3 Nav -->
 
           <li class="nav-item col-6 col-md-4 col-lg-2">
             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
-              <i class="bi bi-command color-red"></i>
+              <i class="ri-leaf-line color-red"></i>
               <h4>Cacao</h4>
             </a>
           </li><!-- End Tab 4 Nav -->
 
           <li class="nav-item col-6 col-md-4 col-lg-2">
             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-5">
-              <i class="bi bi-easel color-blue"></i>
+              <i class="ri-leaf-line color-blue"></i>
               <h4>Coffee</h4>
             </a>
           </li><!-- End Tab 5 Nav -->
 
           <li class="nav-item col-6 col-md-4 col-lg-2">
             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-6">
-              <i class="bi bi-map color-orange"></i>
+              <i class="ri-leaf-line color-orange"></i>
               <h4>Coconut</h4>
             </a>
           </li><!-- End Tab 6 Nav -->
@@ -195,7 +195,7 @@
 
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-emoji-smile"></i>
+                      <i class="bi bi-map color-orange"></i>
                       <div>
                         <span data-purecounter-start="0" data-purecounter-end="29" data-purecounter-duration="1" class="purecounter"></span>
                         <p>Hectares</p>
@@ -205,7 +205,7 @@
         
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-journal-richtext" style="color: #ee6c20;"></i>
+                      <i class="ri-map-pin-5-fill" style="color: #ee6c20;"></i>
                       <div>
                         <span data-purecounter-start="0" data-purecounter-end="4.386" data-purecounter-duration="1" class="purecounter"></span>
                         <p>Mills</p>
@@ -215,7 +215,7 @@
         
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-headset" style="color: #15be56;"></i>
+                      <i class="ri-git-merge-fill" style="color: #15be56;"></i>
                       <div>
                         <span data-purecounter-start="0" data-purecounter-end="1.806" data-purecounter-duration="1" class="purecounter"></span>
                         <p>TTP</p>
