@@ -4,21 +4,17 @@
 
   <!-- ======= Breadcrumbs ======= -->
   <section class="breadcrumbs bg-transparent">
+  <!-- <section class="breadcrumbs" style="background-image: url('template/flexstart/assets/img/events/head-events.png'); height:250px; width:auto;"> -->
       <div class="container">
-
-        <!-- <ol>
-          <li><a href="index.html">Home</a></li>
-          <li>Blog</li>
-        </ol>
-        <h2>Blog</h2> -->
-
+          <!-- <h2>Event's</h2> -->
       </div>
-    </section>
+  </section>
+
     <!-- End Breadcrumbs -->
 
   <main id="main">
     <!-- ======= Recent Blog Posts Section ======= -->
-    <section id="recent-blog-posts" class="recent-blog-posts">
+    <section id="recent-blog-posts pricing" class="recent-blog-posts pricing">
 
       <div class="container" data-aos="fade-up">
 
@@ -26,36 +22,33 @@
           <p>HIGHTLIGHT POST FROM OUR BLOG</p>
           <!-- <p>UPCOMING EVENTS</p> -->
         </header>
-
-        <div class="row">
-
-          <div class="col-lg-4">
-            <div class="post-box">
-              <div class="post-img"><img src="template/flexstart/assets/img/events/event-eudr.png" class="img-fluid" alt=""></div>
-              <span class="post-date">February 7, 2024</span>
-              <h3 class="post-title">Ensuring the legality of Indonesian palm oil: the long road towards sustainable global palm oil production and consumption</h3>
-              <!-- <a href="{{route('singleBlog')}}" class="readmore stretched-link mt-auto"><span>Read More</span><i class="bi bi-arrow-right"></i></a> -->
-            </div>
+        <div class="row gy-4" data-aos="fade-left">
+          <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center" data-aos="zoom-in" data-aos-delay="100">
+              <div class="box post-box" style="height:80%; width:80%;">
+                  <h3 style="color: #07d5c0;">Pass Events</h3>
+                  <div class="post-img"><img src="template/flexstart/assets/img/events/event-eudr.png" class="img-fluid" alt=""></div>
+                  <span class="post-date">Nov 20, 2023</span>
+                  <h3 style="color: #012970;">Navigating EUDR Requirements: Solutions for Effective Implementation</h3>
+              </div>
           </div>
 
-          <div class="col-lg-4">
-            <div class="post-box">
-              <div class="post-img"><img src="template/flexstart/assets/img/events/event-eudr.png" class="img-fluid" alt=""></div>
-              <span class="post-date">February 15, 2024</span>
-              <h3 class="post-title">Closing the gap of RSPO GHG Calculation</h3>
-              <!-- <a href="{{route('singleBlog')}}" class="readmore stretched-link mt-auto"><span>Read More</span><i class="bi bi-arrow-right"></i></a> -->
-            </div>
+          <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center" data-aos="zoom-in" data-aos-delay="200">
+              <div class="box post-box">
+                  <h3 style="color: #ff901c;">Upcoming Events</h3>
+                  <div class="post-img"><img src="template/flexstart/assets/img/events/event-eudr.png" class="img-fluid" alt=""></div>
+                  <span class="post-date">March .., 2024</span>
+                  <h3 style="color: #012970;">Keeping Papua New Guinea in The Palm Oil Market</h3>
+              </div>
           </div>
 
-          <div class="col-lg-4">
-            <div class="post-box">
-              <div class="post-img"><img src="template/flexstart/assets/img/events/event-eudr.png" class="img-fluid" alt=""></div>
-              <span class="post-date">February 21, 2024</span>
-              <h3 class="post-title">A New Template for SGMP</h3>
-              <!-- <a href="{{route('singleBlog')}}" class="readmore stretched-link mt-auto"><span>Read More</span><i class="bi bi-arrow-right"></i></a> -->
-            </div>
+          <div class="col-lg-4 col-md-6 d-flex justify-content-center align-items-center" data-aos="zoom-in" data-aos-delay="300">
+              <div class="box post-box" style="height:80%; width:80%;">
+                  <h3 style="color: #65c600;">Highlight of the Month</h3>
+                  <div class="post-img"><img src="template/flexstart/assets/img/events/event-eudr.png" class="img-fluid" alt=""></div>
+                  <span class="post-date">Nov 20, 2023</span>
+                  <h3 style="color: #012970;">EUDR Agriplot due-dilligence system Overview</h3>
+              </div>
           </div>
-
         </div>
 
       </div>
@@ -82,7 +75,7 @@
 
               <div class="entry-meta">
                 <ul>
-                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="blog-single.html"><time datetime="2020-01-01">Jan 1, 2020</time></a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="blog-single.html"><time datetime="2020-01-01">November 20, 2023</time></a></li>
                   <!-- <li class="d-flex align-items-center"><i class="bi bi-chat-dots"></i> <a href="blog-single.html">12 Comments</a></li> -->
                 </ul>
               </div>
@@ -125,18 +118,23 @@
               <div class="sidebar-item recent-posts">
                 <div class="post-item clearfix">
                   <img src="template/flexstart/assets/img/blog/blog-recent-1.jpg" alt="">
+                  <h4><a href="#">Keeping Papua New Guinea in The Palm Oil Market</a></h4>
+                  <time datetime="2020-01-01">March .., 2024</time>
+                </div>
+                <div class="post-item clearfix">
+                  <img src="template/flexstart/assets/img/blog/blog-recent-1.jpg" alt="">
                   <h4><a href="#">Ensuring the legality of Indonesian palm oil</a></h4>
-                  <time datetime="2020-01-01">February 7, 2024</time>
+                  <time datetime="2020-01-01">March .., 2024</time>
                 </div>
                 <div class="post-item clearfix">
                   <img src="template/flexstart/assets/img/blog/blog-recent-1.jpg" alt="">
                   <h4><a href="#">Closing the gap of RSPO GHG Calculation</a></h4>
-                  <time datetime="2020-01-01">February 15, 2024</time>
+                  <time datetime="2020-01-01">March .., 2024</time>
                 </div>
                 <div class="post-item clearfix">
                   <img src="template/flexstart/assets/img/blog/blog-recent-1.jpg" alt="">
                   <h4><a href="#">A New Template for SGMP</a></h4>
-                  <time datetime="2020-01-01">February 21, 2024</time>
+                  <time datetime="2020-01-01">March .., 2024</time>
                 </div>
               </div><!-- End sidebar recent posts-->
 
@@ -145,17 +143,25 @@
                 <div class="post-item clearfix">
                   <img src="template/flexstart/assets/img/blog/blog-recent-1.jpg" alt="">
                   <h4><a href="#">Navigating EUDR Requirements: Solutions for Effective Implementation</a></h4>
-                  <time datetime="2020-01-01">Jan 1, 2023</time>
+                  <time datetime="2020-01-01">Nov 20, 2023</time>
+                </div>
+                <div class="post-item clearfix">
+                  <img src="template/flexstart/assets/img/blog/blog-recent-1.jpg" alt="">
+                  <h4><a href="#">EUDR Agriplot due-dilligence system Overview</a></h4>
+                  <time datetime="2020-01-01">Nov 20, 2023</time>
                 </div>
               </div>
 
-                <h3 class="sidebar-title">Categories</h3>
-                <div class="sidebar-item categories">
-                <ul>
-                    <li><a href="#">Exhibition <span>(2)</span></a></li>
-                    <li><a href="#">Inovation <span>(3)</span></a></li>
-                </ul>
-                </div><!-- End sidebar categories-->
+              <h3 class="sidebar-title">Categories</h3>
+              <div class="sidebar-item categories">
+              <ul>
+                  <li><a href="#">News <span></span></a></li>
+                  <li><a href="#">Product <span>(8)</span></a></li>
+                  <li><a href="#">Article <span></span></a></li>
+                  <li><a href="#">Exhibition <span>(2)</span></a></li>
+                  <li><a href="#">Success Stories <span>(3)</span></a></li>
+              </ul>
+              </div><!-- End sidebar categories-->
 
             </div><!-- End sidebar -->
 

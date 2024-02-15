@@ -22,7 +22,8 @@
       <div class="container">
 
         <div class="section-header">
-          <p>How We Begins</p>
+          <p>HOW WE BEGINS</p>
+          <h2>Narasi berikut hanya contoh, menunggu narasi yang sebenarnya dari pak Adri.</h2>
         </div>
         <div class="section-title">
           <p>Selamat datang dalam perjalanan kami untuk menekan laju deforestasi dan membangun masa depan yang berkelanjutan bagi planet kita. Sebagai pemimpin dalam upaya konservasi hutan, kami mengenali bahwa keberhasilan sejati memerlukan tekad, kolaborasi, dan inovasi. Cerita perjalanan kami tidak hanya tentang mengejar keberlanjutan, tetapi juga tentang membangun komunitas yang peduli terhadap bumi kita dan warisan alamnya.</p>
@@ -76,7 +77,7 @@
           <div class="col-lg-12 text-center">
             <h4>Location</h4>
             <div class="col-lg-12">
-            <img src="<?php echo asset('template/flexstart/assets/img/petadunia1.jpg'); ?>" class="img-fluid" alt="">
+            <img src="<?php echo asset('template/flexstart/assets/img/work-location-id2.png'); ?>" class="img-fluid" alt="">
           </div>
           </div>
         </div>

@@ -71,7 +71,7 @@
           </div>
 
           <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-            <img src="{{ asset('template/flexstart/assets/img/bgwp2.png') }}" class="img-fluid" alt="">
+            <img src="{{ asset('template/flexstart/assets/img/landing-image.jpg') }}" class="img-fluid" alt="">
           </div>
 
         </div>
@@ -92,35 +92,111 @@
         <div class="row">
 
           <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200">
-            <div class="box">
-            <img src="<?php echo asset('template/flexstart/assets/img/values-1.png'); ?>" class="img-fluid" alt="">
+            <div class="box" data-toggle="modal" data-target="#modalStrenght1">
+              <a href="#"><img src="{{ asset('template/flexstart/assets/img/values-2.png') }}" class="img-fluid" alt=""></a>
               <!-- <img src="{{ asset('template/flexstart/assets/img/values-1.png') }}" class="img-fluid" alt=""> -->
               <h3>Worldwide agricultural facilities and food production plots</h3>
               <!-- <p>To trace and track supply chain risks and assess compliance with sustainability policies</p> -->
             </div>
+            <!-- Modal -->
+            <div class="modal fade feture-tabs tab-content" id="modalStrenght1" tabindex="-1" role="dialog" aria-labelledby="modalStrenght1Label" aria-hidden="true">
+              <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                  <div class="modal-body">
+                    <div class="row tab-pane fade show active" id="tab1">
+                      <div class="col-md-6">
+                        <img src="{{ asset('template/flexstart/assets/img/values-1.png') }}" class="img-fluid" alt="">
+                      </div>
+                      <div class="col-md-6">
+                        <h4>Worldwide agricultural facilities and food production plots</h4>
+                        <p>Our database on agricultural production plots and facilities is well established in multiple sectors, in particular: palm oil and rubber. Its coverage includes industrial plantations, smallholder farms, and upstream facilities. Our service provides extensive global data coverage, encompassing information from diverse regions of Asia, Africa, and Latin America.</p>
+                      </div>
+                    </div>
+                    <!-- End Tab 1 Content -->
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
 
           <div class="col-lg-3 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
-            <div class="box">
-              <img src="{{ asset('template/flexstart/assets/img/values-2.png') }}" class="img-fluid" alt="">
+            <div class="box" data-toggle="modal" data-target="#modalStrenght2">
+              <a href="#"><img src="<?php echo asset('template/flexstart/assets/img/values-1.png'); ?>" class="img-fluid" alt=""></a>
               <h3>Greater volume of data</h3>
               <!-- <p>Bringing new ideas and productivity for revolutionary value creation</p> -->
+            </div>
+            <!-- Modal -->
+            <div class="modal fade feture-tabs tab-content" id="modalStrenght2" tabindex="-1" role="dialog" aria-labelledby="modalStrenght2Label" aria-hidden="true">
+              <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                  <div class="modal-body">
+                    <div class="row tab-pane fade show active" id="tab2">
+                      <div class="col-md-6">
+                        <img src="{{ asset('template/flexstart/assets/img/values-1.png') }}" class="img-fluid" alt="">
+                      </div>
+                      <div class="col-md-6">
+                        <h4>Greater volume of data</h4>
+                        <p>Drawing on over 25 years of experience, we distinguish ourselves as a leader in data richness, accountability, and credibility among service providers. Bolstered by state-of-the-art technology, our team of experts consistently updates our database, guaranteeing you access to the most precise and current information available. </p>
+                      </div>
+                    </div>
+                    <!-- End Tab 1 Content -->
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
 
           <div class="col-lg-3 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="600">
-            <div class="box">
-              <img src="{{ asset('template/flexstart/assets/img/values-3.png') }}" class="img-fluid" alt="">
+            <div class="box" data-toggle="modal" data-target="#modalStrenght3">
+              <a href="#"><img src="{{ asset('template/flexstart/assets/img/values-3.png') }}" class="img-fluid" alt=""></a>
               <h3>Applicable for all types of regulation and sustainability compliance</h3>
               <!-- <p>Internalizing honesty and accessibility to foster open environment</p> -->
+            </div>
+            <!-- Modal -->
+            <div class="modal fade feture-tabs tab-content" id="modalStrenght3" tabindex="-1" role="dialog" aria-labelledby="modalStrenght3Label" aria-hidden="true">
+              <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                  <div class="modal-body">
+                    <div class="row tab-pane fade show active" id="tab3">
+                      <div class="col-md-6">
+                        <img src="{{ asset('template/flexstart/assets/img/values-1.png') }}" class="img-fluid" alt="">
+                      </div>
+                      <div class="col-md-6">
+                        <h4>Applicable for all types of regulation and sustainability compliance</h4>
+                        <p>The compliance of agriculture industry players with regulations and sustainable commitments is crucial to continue marketing the products. The data we provide is designed to support these requirements, enabling informed decision-making for your supply chain. </p>
+                      </div>
+                    </div>
+                    <!-- End Tab 1 Content -->
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
 
           <div class="col-lg-3" data-aos="fade-up" data-aos-delay="800">
-            <div class="box">
-              <img src="{{ asset('template/flexstart/assets/img/values-1.png') }}" class="img-fluid" alt="">
+            <div class="box" data-toggle="modal" data-target="#modalStrenght4">
+              <a href="#"><img src="{{ asset('template/flexstart/assets/img/values-1.png') }}" class="img-fluid" alt=""></a>
               <h3>Not only comprehensive data but also expert consultancy services</h3>
               <!-- <p>Credible, trusted, and be accountable for the things we did</p> -->
+            </div>
+            <!-- Modal -->
+            <div class="modal fade feture-tabs tab-content" id="modalStrenght4" tabindex="-1" role="dialog" aria-labelledby="modalStrenght4Label" aria-hidden="true">
+              <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                  <div class="modal-body">
+                    <div class="row tab-pane fade show active" id="tab4">
+                      <div class="col-md-6">
+                        <img src="{{ asset('template/flexstart/assets/img/values-1.png') }}" class="img-fluid" alt="">
+                      </div>
+                      <div class="col-md-6">
+                        <h4>Not only comprehensive data but also expert consultancy services</h4>
+                        <p>We meticulously ensure the validity of all the detailed data we provide to you. Beyond reporting data, we also offer consultancy services to assist you in making informed decisions for your supply chain. But we don’t just advise, we immersively collaborate with you.</p>
+                      </div>
+                    </div>
+                    <!-- End Tab 1 Content -->
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
 
@@ -149,35 +225,36 @@
           </li><!-- End Tab 1 Nav -->
 
           <li class="nav-item col-6 col-md-4 col-lg-2">
-            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
+            <a class="nav-link disabled" data-bs-toggle="tab" data-bs-target="#tab-2" aria-disabled="true">
               <i class="ri-leaf-line color-indigo"></i>
               <h4>Rubber</h4>
             </a>
-          </li><!-- End Tab 2 Nav -->
+          </li>
+          <!-- End Tab 2 Nav -->
 
           <li class="nav-item col-6 col-md-4 col-lg-2">
-            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
+            <a class="nav-link disabled" data-bs-toggle="tab" data-bs-target="#tab-3" aria-disabled="true">
               <i class="ri-leaf-line color-teal"></i>
               <h4>Soy</h4>
             </a>
           </li><!-- End Tab 3 Nav -->
 
           <li class="nav-item col-6 col-md-4 col-lg-2">
-            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
+            <a class="nav-link disabled" data-bs-toggle="tab" data-bs-target="#tab-4" aria-disabled="true">
               <i class="ri-leaf-line color-red"></i>
               <h4>Cacao</h4>
             </a>
           </li><!-- End Tab 4 Nav -->
 
           <li class="nav-item col-6 col-md-4 col-lg-2">
-            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-5">
-              <i class="ri-leaf-line color-blue"></i>
-              <h4>Coffee</h4>
-            </a>
+              <a class="nav-link disabled" data-bs-toggle="tab" data-bs-target="#tab-5" aria-disabled="true">
+                  <i class="ri-leaf-line color-blue"></i>
+                  <h4>Coffee</h4>
+              </a>
           </li><!-- End Tab 5 Nav -->
 
           <li class="nav-item col-6 col-md-4 col-lg-2">
-            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-6">
+            <a class="nav-link disabled" data-bs-toggle="tab" data-bs-target="#tab-6" aria-disabled="true">
               <i class="ri-leaf-line color-orange"></i>
               <h4>Coconut</h4>
             </a>
@@ -195,39 +272,41 @@
 
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-map color-orange"></i>
+                      <i class="bi bi-map color-cyan"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="29" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Hectares</p>
+                          <span data-purecounter-start="0" data-purecounter-end="29" data-purecounter-duration="1" class="purecounter"></span>
+                          <p>Concessions(Ha)</p>
                       </div>
+                      <div style="color:#0B198F; font-size: 30px; margin-top: -20px; margin-left:-25px;">M+</div>
                     </div>
                   </div>
         
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="ri-map-pin-5-fill" style="color: #ee6c20;"></i>
+                      <i class="ri-map-pin-5-fill color-cyan" ></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="4.386" data-purecounter-duration="1" class="purecounter"></span>
+                        <span data-purecounter-start="0" data-purecounter-end="2391" data-purecounter-duration="1" class="purecounter"></span>
                         <p>Mills</p>
                       </div>
+                      <!-- <div style="color:#0B198F; font-size: 30px; margin-top: -20px;">K</div> -->
                     </div>
                   </div>
         
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="ri-git-merge-fill" style="color: #15be56;"></i>
+                      <i class="ri-git-merge-fill color-cyan" ></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="1.806" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>TTP</p>
+                        <span data-purecounter-start="0" data-purecounter-end="1806" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Mills TTP</p>
                       </div>
                     </div>
                   </div>
         
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-people" style="color: #bb0852;"></i>
+                      <i class="bi bi-people color-cyan" ></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="1.845" data-purecounter-duration="1" class="purecounter"></span>
+                        <span data-purecounter-start="0" data-purecounter-end="1621" data-purecounter-duration="1" class="purecounter"></span>
                         <p>Corporate groups profile</p>
                       </div>
                     </div>
@@ -249,40 +328,42 @@
 
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-emoji-smile"></i>
+                      <i class="bi bi-map color-indigo"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Groups</p>
+                          <span data-purecounter-start="0" data-purecounter-end="29" data-purecounter-duration="1" class="purecounter"></span>
+                          <p>Concessions(Ha)</p>
                       </div>
+                      <div style="color:#0B198F; font-size: 30px; margin-top: -20px; margin-left:-25px;">Upcoming</div>
                     </div>
                   </div>
         
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-journal-richtext" style="color: #ee6c20;"></i>
+                      <i class="ri-map-pin-5-fill color-indigo" ></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
+                        <span data-purecounter-start="0" data-purecounter-end="2391" data-purecounter-duration="1" class="purecounter"></span>
                         <p>Mills</p>
                       </div>
+                      <!-- <div style="color:#0B198F; font-size: 30px; margin-top: -20px;">K</div> -->
                     </div>
                   </div>
         
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-headset" style="color: #15be56;"></i>
+                      <i class="ri-git-merge-fill color-indigo"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>TTP</p>
+                        <span data-purecounter-start="0" data-purecounter-end="1806" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Mills TTP</p>
                       </div>
                     </div>
                   </div>
         
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-people" style="color: #bb0852;"></i>
+                      <i class="bi bi-people color-indigo"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Company Profile</p>
+                        <span data-purecounter-start="0" data-purecounter-end="1621" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Corporate groups profile</p>
                       </div>
                     </div>
                   </div>
@@ -302,30 +383,32 @@
 
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-emoji-smile"></i>
+                      <i class="bi bi-map color-orange"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Groups</p>
+                          <span data-purecounter-start="0" data-purecounter-end="29" data-purecounter-duration="1" class="purecounter"></span>
+                          <p>Concessions(Ha)</p>
                       </div>
+                      <div style="color:#0B198F; font-size: 30px; margin-top: -20px; margin-left:-25px;">M+</div>
                     </div>
                   </div>
         
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-journal-richtext" style="color: #ee6c20;"></i>
+                      <i class="ri-map-pin-5-fill" style="color: #ee6c20;"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
+                        <span data-purecounter-start="0" data-purecounter-end="2391" data-purecounter-duration="1" class="purecounter"></span>
                         <p>Mills</p>
                       </div>
+                      <!-- <div style="color:#0B198F; font-size: 30px; margin-top: -20px;">K</div> -->
                     </div>
                   </div>
         
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-headset" style="color: #15be56;"></i>
+                      <i class="ri-git-merge-fill" style="color: #15be56;"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>TTP</p>
+                        <span data-purecounter-start="0" data-purecounter-end="1806" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Mills TTP</p>
                       </div>
                     </div>
                   </div>
@@ -334,8 +417,8 @@
                     <div class="count-box">
                       <i class="bi bi-people" style="color: #bb0852;"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Company Profile</p>
+                        <span data-purecounter-start="0" data-purecounter-end="1621" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Corporate groups profile</p>
                       </div>
                     </div>
                   </div>
@@ -355,30 +438,32 @@
 
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-emoji-smile"></i>
+                      <i class="bi bi-map color-orange"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Groups</p>
+                          <span data-purecounter-start="0" data-purecounter-end="29" data-purecounter-duration="1" class="purecounter"></span>
+                          <p>Concessions(Ha)</p>
                       </div>
+                      <div style="color:#0B198F; font-size: 30px; margin-top: -20px; margin-left:-25px;">M+</div>
                     </div>
                   </div>
         
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-journal-richtext" style="color: #ee6c20;"></i>
+                      <i class="ri-map-pin-5-fill" style="color: #ee6c20;"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
+                        <span data-purecounter-start="0" data-purecounter-end="2391" data-purecounter-duration="1" class="purecounter"></span>
                         <p>Mills</p>
                       </div>
+                      <!-- <div style="color:#0B198F; font-size: 30px; margin-top: -20px;">K</div> -->
                     </div>
                   </div>
         
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-headset" style="color: #15be56;"></i>
+                      <i class="ri-git-merge-fill" style="color: #15be56;"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>TTP</p>
+                        <span data-purecounter-start="0" data-purecounter-end="1806" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Mills TTP</p>
                       </div>
                     </div>
                   </div>
@@ -387,8 +472,8 @@
                     <div class="count-box">
                       <i class="bi bi-people" style="color: #bb0852;"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Company Profile</p>
+                        <span data-purecounter-start="0" data-purecounter-end="1621" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Corporate groups profile</p>
                       </div>
                     </div>
                   </div>
@@ -408,30 +493,32 @@
 
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-emoji-smile"></i>
+                      <i class="bi bi-map color-orange"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Groups</p>
+                          <span data-purecounter-start="0" data-purecounter-end="29" data-purecounter-duration="1" class="purecounter"></span>
+                          <p>Concessions(Ha)</p>
                       </div>
+                      <div style="color:#0B198F; font-size: 30px; margin-top: -20px; margin-left:-25px;">M+</div>
                     </div>
                   </div>
         
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-journal-richtext" style="color: #ee6c20;"></i>
+                      <i class="ri-map-pin-5-fill" style="color: #ee6c20;"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
+                        <span data-purecounter-start="0" data-purecounter-end="2391" data-purecounter-duration="1" class="purecounter"></span>
                         <p>Mills</p>
                       </div>
+                      <!-- <div style="color:#0B198F; font-size: 30px; margin-top: -20px;">K</div> -->
                     </div>
                   </div>
         
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-headset" style="color: #15be56;"></i>
+                      <i class="ri-git-merge-fill" style="color: #15be56;"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>TTP</p>
+                        <span data-purecounter-start="0" data-purecounter-end="1806" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Mills TTP</p>
                       </div>
                     </div>
                   </div>
@@ -440,8 +527,8 @@
                     <div class="count-box">
                       <i class="bi bi-people" style="color: #bb0852;"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Company Profile</p>
+                        <span data-purecounter-start="0" data-purecounter-end="1621" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Corporate groups profile</p>
                       </div>
                     </div>
                   </div>
@@ -461,30 +548,32 @@
 
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-emoji-smile"></i>
+                      <i class="bi bi-map color-orange"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Groups</p>
+                          <span data-purecounter-start="0" data-purecounter-end="29" data-purecounter-duration="1" class="purecounter"></span>
+                          <p>Concessions(Ha)</p>
                       </div>
+                      <div style="color:#0B198F; font-size: 30px; margin-top: -20px; margin-left:-25px;">M+</div>
                     </div>
                   </div>
         
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-journal-richtext" style="color: #ee6c20;"></i>
+                      <i class="ri-map-pin-5-fill" style="color: #ee6c20;"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
+                        <span data-purecounter-start="0" data-purecounter-end="2391" data-purecounter-duration="1" class="purecounter"></span>
                         <p>Mills</p>
                       </div>
+                      <!-- <div style="color:#0B198F; font-size: 30px; margin-top: -20px;">K</div> -->
                     </div>
                   </div>
         
                   <div class="col-lg-3 col-md-6">
                     <div class="count-box">
-                      <i class="bi bi-headset" style="color: #15be56;"></i>
+                      <i class="ri-git-merge-fill" style="color: #15be56;"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>TTP</p>
+                        <span data-purecounter-start="0" data-purecounter-end="1806" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Mills TTP</p>
                       </div>
                     </div>
                   </div>
@@ -493,8 +582,8 @@
                     <div class="count-box">
                       <i class="bi bi-people" style="color: #bb0852;"></i>
                       <div>
-                        <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Company Profile</p>
+                        <span data-purecounter-start="0" data-purecounter-end="1621" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Corporate groups profile</p>
                       </div>
                     </div>
                   </div>
