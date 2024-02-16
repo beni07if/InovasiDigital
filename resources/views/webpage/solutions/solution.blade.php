@@ -45,9 +45,10 @@
             <div class="modal fade feture-tabs tab-content" id="modalAgriplot" tabindex="-1" role="dialog" aria-labelledby="modalAgriplotLabel" aria-hidden="true">
               <div class="modal-dialog modal-dialog-scrollable modal-xl" role="document">
                 <div class="modal-content">
-                  <!-- <div class="modal-header">
-                    <h5 class="modal-title" id="modalAgriplotLabel">Modal title</h5>
-                  </div> -->
+                  <div class="modal-header">
+                    <!-- <h5 class="modal-title">Modal title</h5> -->
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
                   <div class="modal-body">
                     <div class="tab-pane fade show active" id="tab1">
                       <header class="section-header">
@@ -110,9 +111,10 @@
             <div class="modal fade feture-tabs tab-content" id="modalDds" tabindex="-1" role="dialog" aria-labelledby="modalDdsLabel" aria-hidden="true">
               <div class="modal-dialog modal-xl" role="document">
                 <div class="modal-content">
-                  <!-- <div class="modal-header">
-                    <h5 class="modal-title" id="modalDdsLabel">Modal title</h5>
-                  </div> -->
+                  <div class="modal-header">
+                    <!-- <h5 class="modal-title">Modal title</h5> -->
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
                   <div class="modal-body">
                     <div class="tab-pane fade show active" id="tab2">
                       <header class="section-header">
@@ -169,9 +171,10 @@
             <div class="modal fade feture-tabs tab-content" id="modalSgmp" tabindex="-1" role="dialog" aria-labelledby="modalSgmpLabel" aria-hidden="true">
               <div class="modal-dialog modal-xl" role="document">
                 <div class="modal-content">
-                  <!-- <div class="modal-header">
-                    <h5 class="modal-title" id="modalSgmpLabel">Modal title</h5>
-                  </div> -->
+                  <div class="modal-header">
+                    <!-- <h5 class="modal-title">Modal title</h5> -->
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
                   <div class="modal-body">
                     <div class="tab-pane fade show active" id="tab3">
                       <header class="section-header">
@@ -231,9 +234,10 @@
             <div class="modal fade feture-tabs tab-content" id="modalTraceability" tabindex="-1" role="dialog" aria-labelledby="modalTraceabilityLabel" aria-hidden="true">
               <div class="modal-dialog modal-xl" role="document">
                 <div class="modal-content">
-                  <!-- <div class="modal-header">
-                    <h5 class="modal-title" id="modalTraceabilityLabel">Modal title</h5>
-                  </div> -->
+                  <div class="modal-header">
+                    <!-- <h5 class="modal-title">Modal title</h5> -->
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
                   <div class="modal-body">
                     <div class="tab-pane fade show active" id="tab3">
                       <header class="section-header">
@@ -301,9 +305,10 @@
             <div class="modal fade feture-tabs tab-content" id="modalCorporateProfile" tabindex="-1" role="dialog" aria-labelledby="modalCorporateProfileLabel" aria-hidden="true">
               <div class="modal-dialog modal-xl" role="document">
                 <div class="modal-content">
-                  <!-- <div class="modal-header">
-                    <h5 class="modal-title" id="modalCorporateProfileLabel">Modal title</h5>
-                  </div> -->
+                  <div class="modal-header">
+                    <!-- <h5 class="modal-title">Modal title</h5> -->
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
                   <div class="modal-body">
                     <div class="tab-pane fade show active" id="tab3">
                       <header class="section-header">
@@ -359,9 +364,10 @@
             <div class="modal fade feture-tabs tab-content" id="modalMineralPlot" tabindex="-1" role="dialog" aria-labelledby="modalMineralPlotLabel" aria-hidden="true">
               <div class="modal-dialog modal-xl" role="document">
                 <div class="modal-content">
-                  <!-- <div class="modal-header">
-                    <h5 class="modal-title" id="modalMineralPlotLabel">Modal title</h5>
-                  </div> -->
+                  <div class="modal-header">
+                    <!-- <h5 class="modal-title">Modal title</h5> -->
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
                   <div class="modal-body">
                     <div class="tab-pane fade show active" id="tab3">
                       <header class="section-header">
@@ -415,9 +421,10 @@
             <div class="modal fade feture-tabs tab-content" id="modalRsForensicIntelligence" tabindex="-1" role="dialog" aria-labelledby="modalRsForensicIntelligenceLabel" aria-hidden="true">
               <div class="modal-dialog modal-xl" role="document">
                 <div class="modal-content">
-                  <!-- <div class="modal-header">
-                    <h5 class="modal-title" id="modalRsForensicIntelligenceLabel">Modal title</h5>
-                  </div> -->
+                  <div class="modal-header">
+                    <!-- <h5 class="modal-title">Modal title</h5> -->
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
                   <div class="modal-body">
                     <div class="tab-pane fade show active" id="tab3">
                       <header class="section-header">
@@ -472,9 +479,10 @@
             <div class="modal fade feture-tabs tab-content" id="modalExtendedHelpdesk" tabindex="-1" role="dialog" aria-labelledby="modalExtendedHelpdeskLabel" aria-hidden="true">
               <div class="modal-dialog modal-xl" role="document">
                 <div class="modal-content">
-                  <!-- <div class="modal-header">
-                    <h5 class="modal-title" id="modalExtendedHelpdeskLabel">Modal title</h5>
-                  </div> -->
+                  <div class="modal-header">
+                    <!-- <h5 class="modal-title">Modal title</h5> -->
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
                   <div class="modal-body">
                     <div class="tab-pane fade show active" id="tab3">
                       <header class="section-header">
