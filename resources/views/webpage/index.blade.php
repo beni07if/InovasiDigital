@@ -665,94 +665,91 @@
           <a class="nav-link active" data-bs-toggle="pill" href="#tab1"><img src="template/flexstart/assets/img/logo/logo-partners/Unilever.png" style="width: 50px; height: auto;" alt=""></a>
 
         </li>
-        <li>
+        <!-- <li>
           <a class="nav-link" data-bs-toggle="pill" href="#tab2"><img src="template/flexstart/assets/img/logo/logo-partners/png.png" style="width: 50px; height: auto;" alt=""></a>
         </li>
         <li>
-          <a class="nav-link" data-bs-toggle="pill" href="#tab2"><img src="template/flexstart/assets/img/logo/logo-partners/Wilmar.png" style="width: 50px; height: auto;" alt=""></a>
-        </li>
+          <a class="nav-link" data-bs-toggle="pill" href="#tab3"><img src="template/flexstart/assets/img/logo/logo-partners/Wilmar.png" style="width: 50px; height: auto;" alt=""></a>
+        </li> -->
       </ul><!-- End Tabs -->
 
       <!-- Tab Content -->
       <div class="tab-content">
 
-        <div class="tab-pane fade show active" id="tab1">
-          <div class="row">
-            <div class="col-lg-6">
-              <div class="d-flex align-items-center mb-2">
-                <i class="bi bi-check2"></i>
-                <h4>Merek Global Terkemuka</h4>
-              </div>
-              <p>Sebagai salah satu perusahaan konsumen terkemuka di dunia, Unilever dikenal atas portofolio mereknya yang melibatkan jutaan konsumen di seluruh dunia.</p>
-              <div class="d-flex align-items-center mb-2">
-                <i class="bi bi-check2"></i>
-                <h4>Komitmen Terhadap Keberlanjutan</h4>
-              </div>
-              <p>Unilever telah menetapkan standar tinggi dalam keberlanjutan bisnis. Mereka terlibat dalam inisiatif-inisiatif hijau dan berkelanjutan, memperlihatkan tanggung jawab sosial dan lingkungan.</p>
-              <div class="d-flex align-items-center mb-2">
-                <i class="bi bi-check2"></i>
-                <h4>Inovasi Produk yang Mendunia</h4>
-              </div>
-              <p>Sebagai perusahaan yang terus mendorong batas inovasi produk, Unilever sering kali memimpin tren industri dan menciptakan solusi yang memenuhi kebutuhan konsumen modern.</p>
-              <div class="d-flex align-items-center mb-2">
-                <i class="bi bi-check2"></i>
-                <h4>Kemitraan Strategis</h4>
-              </div>
-              <p>Kolaborasi Unilever dengan mitra bisnisnya menciptakan kemitraan strategis yang kuat. Ini mencerminkan kepercayaan dan keberhasilan dalam membangun hubungan kerja sama yang saling menguntungkan.</p>
+      <div class="tab-pane fade show active" id="tab1">
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="d-flex align-items-center mb-2">
+              <i class="bi bi-check2"></i>
+              <h4>Leading Global Brands</h4>
             </div>
-            <div class="col-lg-6">
-              <div class="d-flex align-items-center mb-2">
-                <i class="bi bi-check2"></i>
-                <h4>Pengakuan dan Penghargaan</h4>
-              </div>
-              <p>Unilever sering kali diakui dengan berbagai penghargaan dan sertifikasi di berbagai bidang, termasuk keberlanjutan, inovasi produk, dan tanggung jawab sosial perusahaan.</p>
-              <div class="d-flex align-items-center mb-2">
-                <i class="bi bi-check2"></i>
-                <h4>Kontribusi Positif pada Masyarakat</h4>
-              </div>
-              <p>Unilever tidak hanya berfokus pada profitabilitas, tetapi juga pada dampak positifnya pada masyarakat. Program-program sosial dan filantropi mereka mencerminkan komitmen terhadap keberlanjutan sosial.</p>
-              <div class="d-flex align-items-center mb-2">
-                <i class="bi bi-check2"></i>
-                <h4>Jangkauan Global dan Diversifikasi Bisnis</h4>
-              </div>
-              <p>Unilever memiliki kehadiran global yang kuat dengan berbagai lini bisnis. Diversifikasi ini menunjukkan kemampuan perusahaan untuk beradaptasi dan berkembang di berbagai pasar.</p>
-              <div class="d-flex align-items-center mb-2">
-                <i class="bi bi-check2"></i>
-                <h4>Kepercayaan Pelanggan</h4>
-              </div>
-              <p>Sebagai pemimpin dalam industri konsumen, Unilever menikmati tingkat kepercayaan yang tinggi dari pelanggan di seluruh dunia. Mereka dikenal karena kualitas produk dan layanan mereka.</p>
-            
+            <p>As one of the world's leading consumer goods companies, Unilever is known for its portfolio of brands that engage millions of consumers worldwide.</p>
+            <div class="d-flex align-items-center mb-2">
+              <i class="bi bi-check2"></i>
+              <h4>Commitment to Sustainability</h4>
             </div>
+            <p>Unilever has set high standards in business sustainability. They are involved in green and sustainable initiatives, demonstrating social and environmental responsibility.</p>
+            <div class="d-flex align-items-center mb-2">
+              <i class="bi bi-check2"></i>
+              <h4>Worldwide Product Innovation</h4>
+            </div>
+            <p>As a company constantly pushing the boundaries of product innovation, Unilever often leads industry trends and creates solutions that meet modern consumer needs.</p>
+            <div class="d-flex align-items-center mb-2">
+              <i class="bi bi-check2"></i>
+              <h4>Strategic Partnerships</h4>
+            </div>
+            <p>Unilever's collaborations with its business partners create strong strategic partnerships. This reflects trust and success in building mutually beneficial relationships.</p>
           </div>
-          
-          
-        </div><!-- End Tab 1 Content -->
+          <div class="col-lg-6">
+            <div class="d-flex align-items-center mb-2">
+              <i class="bi bi-check2"></i>
+              <h4>Recognition and Awards</h4>
+            </div>
+            <p>Unilever is often recognized with various awards and certifications in various fields, including sustainability, product innovation, and corporate social responsibility.</p>
+            <div class="d-flex align-items-center mb-2">
+              <i class="bi bi-check2"></i>
+              <h4>Positive Contribution to Society</h4>
+            </div>
+            <p>Unilever not only focuses on profitability but also on its positive impact on society. Their social programs and philanthropy reflect a commitment to social sustainability.</p>
+            <div class="d-flex align-items-center mb-2">
+              <i class="bi bi-check2"></i>
+              <h4>Global Reach and Business Diversification</h4>
+            </div>
+            <p>Unilever has a strong global presence with various business lines. This diversification demonstrates the company's ability to adapt and thrive in various markets.</p>
+            <div class="d-flex align-items-center mb-2">
+              <i class="bi bi-check2"></i>
+              <h4>Customer Trust</h4>
+            </div>
+            <p>As a leader in the consumer goods industry, Unilever enjoys high levels of trust from customers worldwide. They are known for the quality of their products and services.</p>
+          </div>
+        </div>
+      </div><!-- End Tab 1 Content -->
 
-        <div class="tab-pane fade show" id="tab2">
-          <div class="d-flex align-items-center mb-2">
-            <i class="bi bi-check2"></i>
-            <h4>Reputasi poin 1</h4>
-          </div>
-          <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
-          <div class="d-flex align-items-center mb-2">
-            <i class="bi bi-check2"></i>
-            <h4>Reputasi poin 2</h4>
-          </div>
-          <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
-        </div><!-- End Tab 2 Content -->
+      <div class="tab-pane fade show" id="tab2">
+        <div class="d-flex align-items-center mb-2">
+          <i class="bi bi-check2"></i>
+          <h4>Reputation point 1</h4>
+        </div>
+        <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
+        <div class="d-flex align-items-center mb-2">
+          <i class="bi bi-check2"></i>
+          <h4>Reputation point 2</h4>
+        </div>
+        <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
+      </div><!-- End Tab 2 Content -->
 
-        <div class="tab-pane fade show" id="tab3">
-          <div class="d-flex align-items-center mb-2">
-            <i class="bi bi-check2"></i>
-            <h4>Reputasi poin 1</h4>
-          </div>
-          <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
-          <div class="d-flex align-items-center mb-2">
-            <i class="bi bi-check2"></i>
-            <h4>Reputasi poin 2</h4>
-          </div>
-          <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
-        </div><!-- End Tab 3 Content -->
+      <div class="tab-pane fade show" id="tab3">
+        <div class="d-flex align-items-center mb-2">
+          <i class="bi bi-check2"></i>
+          <h4>Reputation point 1</h4>
+        </div>
+        <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
+        <div class="d-flex align-items-center mb-2">
+          <i class="bi bi-check2"></i>
+          <h4>Reputation point 2</h4>
+        </div>
+        <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
+      </div><!-- End Tab 3 Content -->
 
       </div>
 
