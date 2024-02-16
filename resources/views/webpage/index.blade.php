@@ -3,34 +3,34 @@
 @section('content')
 
   <!-- ======= Hero Section ======= -->
-  <!-- <section id="hero" class="hero d-flex align-items-center">
+  <section id="hero" class="hero d-flex align-items-center">
 
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center">
           <h1 data-aos="fade-up">The world's leading services for sustainable supply chain</h1>
           <h2 data-aos="fade-up" data-aos-delay="400">Comprehensive cutting-edge solutions created to achieve sustainability in your supply chain. Powered by Inovasi Digital</h2>
-          <div data-aos="fade-up" data-aos-delay="600">
+          <!-- <div data-aos="fade-up" data-aos-delay="600">
             <div class="text-center text-lg-start">
               <a href="#about" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
                 <span>Get Started</span>
                 <i class="bi bi-arrow-right"></i>
               </a>
             </div>
-          </div>
+          </div> -->
         </div>
         <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
-          <img src="bgwp.img" class="img-fluid" alt="">
+          <img src="template/flexstart/assets/img/bg-carousel.png" class="img-fluid" alt="">
         </div>
       </div>
     </div>
 
-  </section> -->
-  <section class="breadcrumbs bg-transparent" style="background-image: url('template/flexstart/assets/img/bg-carousel.png'); background-size: contain; background-position: center; height: 80vh; width: 100%; display: flex; justify-content: center; align-items: center;">
+  </section>
+  <!-- <section class="breadcrumbs bg-transparent" style="background-image: url('template/flexstart/assets/img/bg-carousel.png'); background-size: contain; background-position: center; height: 80vh; width: 100%; display: flex; justify-content: center; align-items: center;">
     <div class="container">
-        <!-- Konten di sini -->
+        Konten di sini
     </div>
-</section>
+</section> -->
 
   <!-- End Hero ss-->
 
@@ -78,7 +78,7 @@
           </div>
 
           <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-            <img src="{{ asset('template/flexstart/assets/img/landing-image.jpg') }}" class="img-fluid" alt="">
+            <img src="{{ asset('template/flexstart/assets/img/gambar-home.png') }}" class="img-fluid" alt="">
           </div>
 
         </div>
@@ -100,7 +100,7 @@
 
           <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200">
             <div class="box" data-toggle="modal" data-target="#modalStrenght1">
-              <a href="#"><img src="{{ asset('template/flexstart/assets/img/values-2.png') }}" class="img-fluid" alt=""></a>
+              <a href="#"><img src="{{ asset('template/flexstart/assets/img/gambar04.png') }}" class="img-fluid" alt=""></a>
               <!-- <img src="{{ asset('template/flexstart/assets/img/values-1.png') }}" class="img-fluid" alt=""> -->
               <h3>Worldwide agricultural facilities and food production plots</h3>
               <!-- <p>To trace and track supply chain risks and assess compliance with sustainability policies</p> -->
@@ -112,7 +112,7 @@
                   <div class="modal-body">
                     <div class="row tab-pane fade show active" id="tab1">
                       <div class="col-md-6">
-                        <img src="{{ asset('template/flexstart/assets/img/values-1.png') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('template/flexstart/assets/img/gambar04.png') }}" class="img-fluid" alt="">
                       </div>
                       <div class="col-md-6">
                         <h4>Worldwide agricultural facilities and food production plots</h4>
@@ -128,7 +128,7 @@
 
           <div class="col-lg-3 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
             <div class="box" data-toggle="modal" data-target="#modalStrenght2">
-              <a href="#"><img src="<?php echo asset('template/flexstart/assets/img/values-1.png'); ?>" class="img-fluid" alt=""></a>
+              <a href="#"><img src="<?php echo asset('template/flexstart/assets/img/gambar04.png'); ?>" class="img-fluid" alt=""></a>
               <h3>Greater volume of data</h3>
               <!-- <p>Bringing new ideas and productivity for revolutionary value creation</p> -->
             </div>
@@ -139,7 +139,7 @@
                   <div class="modal-body">
                     <div class="row tab-pane fade show active" id="tab2">
                       <div class="col-md-6">
-                        <img src="{{ asset('template/flexstart/assets/img/values-1.png') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('template/flexstart/assets/img/gambar04.png') }}" class="img-fluid" alt="">
                       </div>
                       <div class="col-md-6">
                         <h4>Greater volume of data</h4>
@@ -155,7 +155,7 @@
 
           <div class="col-lg-3 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="600">
             <div class="box" data-toggle="modal" data-target="#modalStrenght3">
-              <a href="#"><img src="{{ asset('template/flexstart/assets/img/values-3.png') }}" class="img-fluid" alt=""></a>
+              <a href="#"><img src="{{ asset('template/flexstart/assets/img/gambar04.png') }}" class="img-fluid" alt=""></a>
               <h3>Applicable for all types of regulation and sustainability compliance</h3>
               <!-- <p>Internalizing honesty and accessibility to foster open environment</p> -->
             </div>
@@ -166,7 +166,7 @@
                   <div class="modal-body">
                     <div class="row tab-pane fade show active" id="tab3">
                       <div class="col-md-6">
-                        <img src="{{ asset('template/flexstart/assets/img/values-1.png') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('template/flexstart/assets/img/gambar04.png') }}" class="img-fluid" alt="">
                       </div>
                       <div class="col-md-6">
                         <h4>Applicable for all types of regulation and sustainability compliance</h4>
@@ -182,7 +182,7 @@
 
           <div class="col-lg-3" data-aos="fade-up" data-aos-delay="800">
             <div class="box" data-toggle="modal" data-target="#modalStrenght4">
-              <a href="#"><img src="{{ asset('template/flexstart/assets/img/values-1.png') }}" class="img-fluid" alt=""></a>
+              <a href="#"><img src="{{ asset('template/flexstart/assets/img/gambar04.png') }}" class="img-fluid" alt=""></a>
               <h3>Not only comprehensive data but also expert consultancy services</h3>
               <!-- <p>Credible, trusted, and be accountable for the things we did</p> -->
             </div>
@@ -193,7 +193,7 @@
                   <div class="modal-body">
                     <div class="row tab-pane fade show active" id="tab4">
                       <div class="col-md-6">
-                        <img src="{{ asset('template/flexstart/assets/img/values-1.png') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('template/flexstart/assets/img/gambar04.png') }}" class="img-fluid" alt="">
                       </div>
                       <div class="col-md-6">
                         <h4>Not only comprehensive data but also expert consultancy services</h4>
@@ -662,14 +662,14 @@
       <!-- Tabs -->
       <ul class="nav nav-pills mb-3">
         <li>
-          <a class="nav-link active" data-bs-toggle="pill" href="#tab1"><img src="template/flexstart/assets/img/logo/logo-partners/unilever.png" style="width: 50px; height: auto;" alt=""></a>
+          <a class="nav-link active" data-bs-toggle="pill" href="#tab1"><img src="template/flexstart/assets/img/logo/logo-partners/Unilever.png" style="width: 50px; height: auto;" alt=""></a>
 
         </li>
         <li>
           <a class="nav-link" data-bs-toggle="pill" href="#tab2"><img src="template/flexstart/assets/img/logo/logo-partners/png.png" style="width: 50px; height: auto;" alt=""></a>
         </li>
         <li>
-          <a class="nav-link" data-bs-toggle="pill" href="#tab2"><img src="template/flexstart/assets/img/logo/logo-partners/wilmar.png" style="width: 50px; height: auto;" alt=""></a>
+          <a class="nav-link" data-bs-toggle="pill" href="#tab2"><img src="template/flexstart/assets/img/logo/logo-partners/Wilmar.png" style="width: 50px; height: auto;" alt=""></a>
         </li>
       </ul><!-- End Tabs -->
 

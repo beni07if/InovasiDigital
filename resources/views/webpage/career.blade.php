@@ -5,14 +5,14 @@
   <!-- ======= Breadcrumbs ======= -->
   <!-- <section class="breadcrumbs bg-transparent"> -->
   <section class="breadcrumbs bg-transparent" style="background-image: url('template/flexstart/assets/img/career/karir3.jpeg'); background-size: cover; height: 600px; width: auto;">
-    <div class="container">
-        <!-- <ol>
-          <li><a href="index.html">Home</a></li>
-          <li>Blog</li>
-        </ol>
-        <h2>Blog</h2> -->
-    </div>
-</section>
+      <div class="container">
+          <!-- <ol>
+            <li><a href="index.html">Home</a></li>
+            <li>Blog</li>
+          </ol>
+          <h2>Blog</h2> -->
+      </div>
+  </section>
 
     <!-- End Breadcrumbs -->
 
